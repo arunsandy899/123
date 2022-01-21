@@ -41,7 +41,7 @@ def hero():
             for c in itertools.cycle(['|', '/', '-', '\\']):
                 if done:
                     break
-                sys.stdout.write('\rRuko zara sbar karo  --------- ' + c)
+                sys.stdout.write('\rWait It --------- ' + c)
                 sys.stdout.flush()
                 time.sleep(0.2)
             sys.stdout.write('\rDone!     ')
@@ -79,7 +79,7 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print("Contact me on telegram @HACK_RXCE")
+        print("Contact me on telegram @")
         print("Enter ",newperiod,"  Price :")
         current=input()
         current=int(current)
@@ -112,7 +112,7 @@ def hero():
             system('figlet FINISH!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @RXCE_HACKER")
+            sys.exit(" \n \n \n Contact on Telegram @Arun")
             #print(numbers)
              
   
@@ -154,7 +154,7 @@ if(expirydate>today):
         #print("31 Oct 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @RXCE_HACKER ")
+        print(" admin on telegram @Arun ")
 
 
 
@@ -171,7 +171,7 @@ else:
     system(banner)
     print("*---------*----------*-------------*----------*")
     print("Your hack has expired--- Please contact")
-    print(" on telegram ----@HACK_RXCE for activating")
+    print(" on telegram ----@ for activating")
     print(" Recharge Amount :        Total limit " )
     print(" 1.     1000 INR -------  1 Day (30 Games")
     print(" 2.     5000 INR -------  7 Days(210 Games")
@@ -219,7 +219,7 @@ else:
             period=400
             #hero()
             period("Sorry too many people(>20) using hack in same time ")
-            sys.exit(" \n \n \n Contact on Telegram @HACK_RXCE")
+            sys.exit(" \n \n \n Contact on Telegram @Arun")
             
             
         else:
