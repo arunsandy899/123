@@ -140,7 +140,7 @@ if(expirydate>today):
             period=340
             hero()
     elif(True):
-            period=0
+            period=234
             hero()
     else:
         banner='figlet COLOR PREDECTION'
